@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[22016,["/engelen-preview-04ad94/_next/static/chunks/0ya7gjkzwk-_f.js","/engelen-preview-04ad94/_next/static/chunks/0lf5a8u_3s.6g.js","/engelen-preview-04ad94/_next/static/chunks/0d3shmwh5_nmn.js"],""]
+3:I[97367,["/engelen-preview-04ad94/_next/static/chunks/0ya7gjkzwk-_f.js","/engelen-preview-04ad94/_next/static/chunks/0lf5a8u_3s.6g.js","/engelen-preview-04ad94/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"rsc":["$","$1","c",{"children":[["$","section",null,{"className":"flex min-h-[70vh] flex-col items-center justify-center px-6 text-center","children":[["$","span",null,{"className":"text-4xl text-gold","children":"✦"}],["$","h1",null,{"className":"mt-5 font-display text-4xl text-cream","children":"Pagina niet gevonden"}],["$","p",null,{"className":"mt-3 max-w-sm text-muted","children":"Deze pagina bestaat niet (meer). Laten we je terugbrengen naar de glans."}],["$","$L2",null,{"href":"/","className":"btn btn-gold mt-7","children":"Terug naar home"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"Bg-u1xwvGFQIRnJ7bcIRM"}
+5:null
